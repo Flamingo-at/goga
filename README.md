@@ -8,7 +8,7 @@
 
 ## ⚡ Installation
 + Install [python](https://www.google.com/search?client=opera&q=how+install+python)
-+ Download and unzip repository
++ [Download](https://sites.northwestern.edu/researchcomputing/resources/downloading-from-github) and unzip repository
 + Install requirements:
 ```python
 pip install -r requirements.txt

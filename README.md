@@ -1,6 +1,6 @@
 <h1 align="center">GOGA</h1>
 
-<p align="center">Registration of referrals for the GOGA application</p>
+<p align="center">Registration of referrals for the <a href="https://goga.ai/">GOGA</a> application</p>
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">

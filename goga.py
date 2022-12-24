@@ -163,7 +163,7 @@ async def main():
 if __name__ == '__main__':
     print("Bot GOGA @flamingoat\n")
 
-    ref = str(input('Refferal code: '))
+    ref = str(input('Referral code: '))
     threads = int(input('Threads: '))
     delay = int(input('Delay(sec): '))
     use_tor_proxy = input('Use tor proxies?(y/n): ').lower()

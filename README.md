@@ -26,7 +26,7 @@ python goga.py
 ```
 
 ## ✔️ Usage
-+ ```Refferal code``` - your referral code from the application
++ ```Referral code``` - your referral code from the application
 + ```Threads``` - number of simultaneous registrations
 + ```Delay(sec)``` - delay between referral registrations in seconds
 + ```Use tor proxies?(y/n)``` - if you select ```n```, referrals will be registered to your ip. If you select ```y```, each referral will have a different ip, but for this you need to launch the Tor Browser
